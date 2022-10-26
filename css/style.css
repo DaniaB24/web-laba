@@ -10,7 +10,7 @@ body {
 .container {
   margin: 0 auto;
   padding: 20px;
-  background-image: url("/img/MultiCam.svg");
+  background-image: url("../img/MultiCam.svg");
 }
 
 .list_items {
